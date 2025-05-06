@@ -1,0 +1,3 @@
+tacco bell,400.0
+starbucks,600.0
+dominos,300.0
